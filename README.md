@@ -1,174 +1,289 @@
-# Hey, I'm Faraz 👋
+<div align="center">
+
+# 👋 Hey, I'm Faraz Kayan Haque
 
 ### I build things I wish existed.
 
+**Student • Builder • Tech Enthusiast • Homelab Nerd • Curious Human**
+
+<br>
+
+<a href="https://faraz.is-a.dev/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit-000000?style=for-the-badge" />
+</a>
+<a href="https://github.com/farazkayan">
+  <img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/faraz_kayan_haque/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/faraz.kayan.haque/">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
 I'm a student who is genuinely obsessed with technology.
 
-I learn by **building things, breaking things, figuring out why they broke, and building them better.**
+I learn mostly by **building things, breaking things, figuring out why they broke, and trying again.**
 
-I’m interested in software, AI, Linux, self-hosting, web development, hardware, and pretty much anything that lets me turn an idea into something real.
+I'm interested in everything from software and AI to Linux, networking, hardware, self-hosting, and the weird rabbit holes that start with:
 
-<br>
+> *"I wonder if I could actually make that work..."*
 
-## 🌐 Explore My World
+Then I try.
 
-### **[→ Visit my portfolio](YOUR_PORTFOLIO_URL)**
+---
 
-A deeper look at what I'm building, what I'm learning, the things I run, and the stuff I do outside of code.
+## 🚀 What I Do
 
-<br>
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 What I'm Into
+### 💻 Build
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   💻  BUILDING        Turning ideas into real projects       │
-│   🤖  AI              Experimenting with models & tools      │
-│   🐧  LINUX           Servers, terminals & self-hosting      │
-│   🏠  HOMELAB         Running things myself                  │
-│   🌐  WEB             Building things for the internet       │
-│   🔧  HARDWARE        Upgrading, fixing & experimenting      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+I turn ideas into actual projects.
 
-## 🛠️ My Toolkit
+Websites, tools, experiments, automation, infrastructure — if an idea seems useful or interesting, I'll probably try building it.
 
-**Languages & Web**
+</td>
+<td width="50%">
 
-`Python` · `JavaScript` · `HTML` · `CSS`
+### 🧠 Learn
 
-**Systems**
+I prefer learning by doing.
 
-`Linux` · `Ubuntu` · `Git` · `GitHub` · `Networking`
+Instead of just reading about something, I like getting my hands dirty and discovering how it actually works.
 
-**Things I Like Breaking**
+</td>
+</tr>
 
-`Servers` · `APIs` · `AI Models` · `Hardware` · `Self-hosted Services`
+<tr>
+<td width="50%">
 
-> I'm always learning something new, so this list is never really finished.
+### 🤖 Experiment
 
-<br>
+AI, APIs, LLMs, developer tools and whatever new technology catches my attention.
 
-## 🧪 Things I've Built
+I like finding out what these things can actually do.
+
+</td>
+<td width="50%">
+
+### 🏠 Self-Host
+
+Linux servers, networking, media servers, tunnels, services and homelab experiments.
+
+If I can run it myself, that's usually more interesting.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Tech World
+
+### Languages & Web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+### Currently Exploring
+
+`AI` · `LLMs` · `Networking` · `Self-Hosting` · `Homelabs` · `APIs` · `Infrastructure`
+
+> This list is constantly changing. That's kind of the point.
+
+---
+
+## 🧪 The Things I Build
 
 I like projects that start with:
 
-> **"Wait... why doesn't this exist?"**
+```text
+"Why doesn't this exist?"
+```
 
 and end with:
 
-> **"Okay, I built it."**
+```text
+"Fine. I'll build it myself."
+```
 
-Check out my repositories for the experiments, tools, websites, infrastructure, and random ideas I've turned into actual projects.
+### ⭐ Explore my work
 
-### ⭐ Start here
+<div align="center">
 
-**[→ Browse my projects](https://github.com/farazkayan?tab=repositories)**
+<a href="https://faraz.is-a.dev/">
+<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-000000?style=for-the-badge&logoColor=white" />
+</a>
 
-<br>
+<a href="https://github.com/farazkayan?tab=repositories">
+<img src="https://img.shields.io/badge/💻_EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 ## 🏠 Homelab
 
-I don't just use technology.
+I don't just **use** technology.
 
-**I run it.**
+### I run it.
 
-I'm interested in self-hosting, Linux servers, networking, media servers, tunnels, remote access, and figuring out how much infrastructure I can run myself.
+My homelab is where I experiment with:
 
-My homelab is basically where theory meets:
+* 🐧 Linux
+* 🌐 Networking
+* 🖥️ Servers
+* 📡 Remote access
+* 🎬 Self-hosted media
+* 🔐 Secure tunnels
+* ⚙️ Infrastructure
+* 🧪 Random experiments that probably shouldn't work
+
+The learning process usually looks something like this:
 
 ```text
-"Why isn't this working?"
-
-        ↓
-
-      Google
-
-        ↓
-
-   Documentation
-
-        ↓
-
-      Testing
-
-        ↓
-
-     Breaking it
-
-        ↓
-
-      Fixing it
-
-        ↓
-
-     IT WORKS 🚀
+        💡 IDEA
+           │
+           ▼
+      "Can I build it?"
+           │
+           ▼
+        🔨 BUILD
+           │
+           ▼
+       💥 BREAK
+           │
+           ▼
+      🔎 DEBUG
+           │
+           ▼
+       🧠 LEARN
+           │
+           ▼
+       🔧 FIX IT
+           │
+           ▼
+       🚀 IT WORKS
+           │
+           └──────────► "Okay... what's next?"
 ```
 
-<br>
+---
 
 ## 📚 Currently Learning
 
-* Building better software
-* AI & modern LLMs
-* Linux & systems
-* Networking
-* Web development
-* Infrastructure & self-hosting
-* Hardware & computer engineering
+I'm constantly adding new things to the list, but right now I'm especially interested in:
 
-And probably **something completely random by tomorrow.**
+* 🤖 Artificial Intelligence & LLMs
+* 💻 Software development
+* 🐧 Linux & systems
+* 🌐 Networking
+* 🏠 Self-hosting & infrastructure
+* 🔧 Computer hardware
+* 🌍 Web development
+* 🧠 Understanding how things actually work
 
-<br>
+---
 
 ## 🎯 My Philosophy
 
-> **Build first. Learn by doing. Break things. Fix them. Repeat.**
+> ### Build first. Learn by doing. Break things. Fix them. Repeat.
 
-I don't want to only know how technology works.
+I don't want to only know **how** to use technology.
 
-I want to know **why** it works.
+I want to understand **why it works.**
 
-<br>
+And when I don't know something?
+
+**I build until I do.**
+
+---
 
 ## 📊 GitHub
 
 <div align="center">
 
-![Faraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farazkayan\&show_icons=true\&hide_border=true\&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=farazkayan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farazkayan\&layout=compact\&hide_border=true)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazkayan&layout=compact&hide_border=true" />
 
 </div>
 
-<br>
+---
 
-## 🌍 Find Me
+## 🌍 Find Me Around the Internet
 
-**🌐 Portfolio:** [YOUR_PORTFOLIO_URL]
+<div align="center">
 
-**💻 GitHub:** [@farazkayan](https://github.com/farazkayan)
+<a href="https://faraz.is-a.dev/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-faraz.is--a.dev-000000?style=for-the-badge" />
+</a>
 
-**📸 Instagram:** [YOUR_INSTAGRAM_URL]
+<br><br>
 
-**📘 Facebook:** [YOUR_FACEBOOK_URL]
+<a href="https://github.com/farazkayan">
+<img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**💼 LinkedIn:** [YOUR_LINKEDIN_URL]
+<a href="https://www.instagram.com/faraz_kayan_haque/">
+<img src="https://img.shields.io/badge/Instagram-faraz__kayan__haque-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/">
+<img src="https://img.shields.io/badge/LinkedIn-Faraz_Kayan_Haque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/faraz.kayan.haque/">
+<img src="https://img.shields.io/badge/Facebook-Faraz_Kayan_Haque-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+## 👋 Thanks for stopping by!
 
-**If I can imagine it, I'll probably try to build it.**
+### I build things I wish existed.
+
+**Explore. Experiment. Build. Break. Learn. Repeat.**
 
 <br>
 
-⭐ Check out my repositories · 🌐 Visit my portfolio · 🚀 Build something
+<a href="https://faraz.is-a.dev/">
+  <img src="https://img.shields.io/badge/🚀_ENTER_MY_PORTFOLIO-Visit_Now-000000?style=for-the-badge" />
+</a>
+
+<br><br>
+
+⭐ If something here interests you, check out the repositories.
 
 </div>
