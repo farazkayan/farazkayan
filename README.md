@@ -37,11 +37,13 @@ I'm a student who is genuinely obsessed with technology.
 
 I learn mostly by **building things, breaking things, figuring out why they broke, and trying again.**
 
-I'm interested in everything from software and AI to Linux, networking, hardware, self-hosting, and the weird rabbit holes that start with:
+I'm interested in software, AI, Linux, networking, hardware, self-hosting, web development, and pretty much anything that lets me turn an idea into something real.
 
-> *"I wonder if I could actually make that work..."*
+Most of my projects start with a simple question:
 
-Then I try.
+> **"Wait... why doesn't this exist?"**
+
+And then I try to build it.
 
 ---
 
@@ -64,7 +66,7 @@ Websites, tools, experiments, automation, infrastructure — if an idea seems us
 
 I prefer learning by doing.
 
-Instead of just reading about something, I like getting my hands dirty and discovering how it actually works.
+Instead of only reading about something, I like getting my hands dirty and discovering how it actually works.
 
 </td>
 </tr>
@@ -136,7 +138,7 @@ and end with:
 <div align="center">
 
 <a href="https://faraz.is-a.dev/">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-000000?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/farazkayan?tab=repositories">
@@ -224,15 +226,21 @@ And when I don't know something?
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farazkayan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="./profile/stats.svg" alt="Faraz's GitHub Stats" width="49%" />
+
+<img src="./profile/top-langs.svg" alt="Faraz's Top Languages" width="49%" />
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazkayan&layout=compact&hide_border=true" />
+<div align="center">
+
+*Stats generated automatically with GitHub Actions.*
 
 </div>
 
@@ -243,25 +251,25 @@ And when I don't know something?
 <div align="center">
 
 <a href="https://faraz.is-a.dev/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-faraz.is--a.dev-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-faraz.is--a.dev-000000?style=for-the-badge" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/farazkayan">
-<img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/faraz_kayan_haque/">
-<img src="https://img.shields.io/badge/Instagram-faraz__kayan__haque-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-faraz__kayan__haque-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/">
-<img src="https://img.shields.io/badge/LinkedIn-Faraz_Kayan_Haque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Faraz_Kayan_Haque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/faraz.kayan.haque/">
-<img src="https://img.shields.io/badge/Facebook-Faraz_Kayan_Haque-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Faraz_Kayan_Haque-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 </div>
@@ -270,7 +278,7 @@ And when I don't know something?
 
 <div align="center">
 
-## 👋 Thanks for stopping by!
+# 👋 Thanks for stopping by!
 
 ### I build things I wish existed.
 
@@ -284,6 +292,6 @@ And when I don't know something?
 
 <br><br>
 
-⭐ If something here interests you, check out the repositories.
+⭐ Check out my repositories · 🌐 Visit my portfolio · 🚀 Build something
 
 </div>
