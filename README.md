@@ -1,276 +1,179 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hey, I'm Faraz Kayan Haque
-
-### I build things I wish existed.
-
-**Student • Builder • Tech Enthusiast • Homelab Nerd • Curious Human**
-
-<br>
-
-<a href="https://faraz.is-a.dev/">
-  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit-000000?style=for-the-badge" />
-</a>
-<a href="https://github.com/farazkayan">
-  <img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github" />
+<a href="https://farazkh.dev">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:09090B,45:21153D,100:7C3AED&amp;height=230&amp;section=header&amp;text=Faraz%20Kayan%20Haque&amp;fontSize=38&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=I%20build%20things%20I%20wish%20existed.&amp;descSize=17&amp;descAlignY=57" alt="Faraz Kayan Haque — I build things I wish existed."/>
 </a>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;duration=2800&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=550&amp;height=38&amp;lines=Curiosity+in%2C+working+software+out.;Build.+Break.+Understand.+Repeat.;Turning+%22what+if%3F%22+into+actual+projects." alt="Animated introduction"/>
 
-<a href="https://www.instagram.com/faraz_kayan_haque/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/faraz.kayan.haque/">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<br/>
+
+<a href="https://farazkh.dev"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=A78BFA" alt="Website"/></a>
+<a href="https://github.com/farazkayan?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="Projects"/></a>
+<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/"><img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=A78BFA" alt="Connect"/></a>
+
+<br/><br/>
+
+*Student · Builder · Homelab Nerd · Curious Human*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm a student who is genuinely obsessed with technology.
+### `01` &nbsp; THE PERSON BEHIND THE PROJECTS
 
-I learn mostly by **building things, breaking things, figuring out why they broke, and trying again.**
+</div>
 
-I'm interested in software, AI, Linux, networking, hardware, self-hosting, web development, and pretty much anything that lets me turn an idea into something real.
+I'm Faraz — a student who's genuinely obsessed with figuring out how technology works.
 
-Most of my projects start with a simple question:
+I learn by building things, breaking them, debugging the mess, and trying again. My interests range from web development and AI to Linux, networking, hardware, and self-hosting.
+
+Most of my projects start with one question:
 
 > **"Wait... why doesn't this exist?"**
 
-And then I try to build it.
+And then, naturally, I try to build it myself.
 
 ---
 
-## 🚀 What I Do
+<div align="center">
+
+### `02` &nbsp; MY TECH WORLD
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,tailwind,html,css&amp;theme=dark&amp;perline=8" alt="Programming and web technologies"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,linux,ubuntu,docker,git,github,vscode&amp;theme=dark&amp;perline=8" alt="Development and infrastructure tools"/>
+
+<br/>
+
+`SOFTWARE` &nbsp;·&nbsp; `AI / LLMs` &nbsp;·&nbsp; `LINUX` &nbsp;·&nbsp; `NETWORKING` &nbsp;·&nbsp; `SELF-HOSTING`
+
+</div>
+
+I like experimenting across the stack — from making an interface feel right to understanding the systems running behind it.
+
+I'm still learning. That's the point.
+
+---
+
+<div align="center">
+
+### `03` &nbsp; THINGS I'VE BUILT
+
+*Ideas are nice. Working implementations are better.*
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Build
+<h3><a href="https://farazkh.dev">farazkh.dev ↗</a></h3>
 
-I turn ideas into actual projects.
+My little corner of the internet.
 
-Websites, tools, experiments, automation, infrastructure — if an idea seems useful or interesting, I'll probably try building it.
+A home for my projects, experiments, homelab setup, and everything I want to share with the world.
+
+<br/>
+
+<code>REACT</code> &nbsp; <code>WEB</code>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Learn
+<h3><a href="https://github.com/farazkayan/SoundMesh">SoundMesh ↗</a></h3>
 
-I prefer learning by doing.
+An experiment in synchronizing audio playback across devices.
 
-Instead of only reading about something, I like getting my hands dirty and discovering how it actually works.
+Exploring how multiple devices can work together to create one listening experience.
+
+<br/>
+
+<code>FLUTTER</code> &nbsp; <code>DART</code>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td colspan="2" valign="top">
 
-### 🤖 Experiment
+<h3><a href="https://github.com/farazkayan?tab=repositories">More experiments ↗</a></h3>
 
-AI, APIs, LLMs, developer tools and whatever new technology catches my attention.
-
-I like finding out what these things can actually do.
-
-</td>
-<td width="50%">
-
-### 🏠 Self-Host
-
-Linux servers, networking, media servers, tunnels, services and homelab experiments.
-
-If I can run it myself, that's usually more interesting.
+Tools, experiments, unfinished ideas, and whatever else catches my curiosity. There's always something new to figure out.
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ My Tech World
-
-### Languages & Web
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Systems & Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Currently Exploring
-
-`AI` · `LLMs` · `Networking` · `Self-Hosting` · `Homelabs` · `APIs` · `Infrastructure`
-
-> This list is constantly changing. That's kind of the point.
-
----
-
-## 🧪 The Things I Build
-
-I like projects that start with:
-
-```text
-"Why doesn't this exist?"
-```
-
-and end with:
-
-```text
-"Fine. I'll build it myself."
-```
-
-### ⭐ Explore my work
-
 <div align="center">
-
-<a href="https://faraz.is-a.dev/">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-000000?style=for-the-badge" />
-</a>
 
 <a href="https://github.com/farazkayan?tab=repositories">
-<img src="https://img.shields.io/badge/💻_EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-## 🏠 Homelab
+<div align="center">
 
-I don't just **use** technology.
+### `04` &nbsp; THE HOMELAB
 
-### I run it.
+*Why just use technology when you can run it yourself?*
 
-My homelab is where I experiment with:
+<img src="https://img.shields.io/badge/UBUNTU-0D1117?style=flat-square&amp;logo=ubuntu&amp;logoColor=E95420" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/DOCKER-0D1117?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/CLOUDFLARE-0D1117?style=flat-square&amp;logo=cloudflare&amp;logoColor=F38020" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/SELF--HOSTED-0D1117?style=flat-square&amp;logo=linux&amp;logoColor=A78BFA" alt="Self-hosted"/>
 
-* 🐧 Linux
-* 🌐 Networking
-* 🖥️ Servers
-* 📡 Remote access
-* 🎬 Self-hosted media
-* 🔐 Secure tunnels
-* ⚙️ Infrastructure
-* 🧪 Random experiments that probably shouldn't work
+</div>
 
-The learning process usually looks something like this:
+My homelab is where I experiment with Linux servers, self-hosted applications, media, networking, tunnels, automation, and remote access.
+
+It's not a massive server rack. It's a place to experiment, learn how infrastructure works, and make useful things run on hardware I already have.
 
 ```text
-        💡 IDEA
-           │
-           ▼
-      "Can I build it?"
-           │
-           ▼
-        🔨 BUILD
-           │
-           ▼
-       💥 BREAK
-           │
-           ▼
-      🔎 DEBUG
-           │
-           ▼
-       🧠 LEARN
-           │
-           ▼
-       🔧 FIX IT
-           │
-           ▼
-       🚀 IT WORKS
-           │
-           └──────────► "Okay... what's next?"
+  💡  IDEA
+   │
+   ▼
+  🔨  BUILD
+   │
+   ▼
+  💥  SOMETHING BREAKS
+   │
+   ▼
+  🔎  DEBUG
+   │
+   ▼
+  🧠  UNDERSTAND WHY
+   │
+   ▼
+  🚀  IT WORKS
+   │
+   └──────────────► "Okay, what else can I run?"
 ```
 
 ---
 
-## 📚 Currently Learning
-
-I'm constantly adding new things to the list, but right now I'm especially interested in:
-
-* 🤖 Artificial Intelligence & LLMs
-* 💻 Software development
-* 🐧 Linux & systems
-* 🌐 Networking
-* 🏠 Self-hosting & infrastructure
-* 🔧 Computer hardware
-* 🌍 Web development
-* 🧠 Understanding how things actually work
-
----
-
-## 🎯 My Philosophy
-
-> ### Build first. Learn by doing. Break things. Fix them. Repeat.
-
-I don't want to only know **how** to use technology.
-
-I want to understand **why it works.**
-
-And when I don't know something?
-
-**I build until I do.**
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Faraz's GitHub Stats" width="49%" />
+### `05` &nbsp; GITHUB, IN NUMBERS
 
-<img src="./profile/top-langs.svg" alt="Faraz's Top Languages" width="49%" />
+*Some stats. Some patterns. An ongoing collection of commits.*
 
-</div>
-
-<br>
-
-<div align="center">
-
-*Stats generated automatically with GitHub Actions.*
-
-</div>
-
----
-
-## 🌍 Find Me Around the Internet
-
-<div align="center">
-
-<a href="https://faraz.is-a.dev/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-faraz.is--a.dev-000000?style=for-the-badge" />
-</a>
-
-<br><br>
+<br/>
 
 <a href="https://github.com/farazkayan">
-  <img src="https://img.shields.io/badge/GitHub-farazkayan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="165" src="./profile/stats.svg" alt="Faraz's GitHub statistics"/>
+</a>
+<a href="https://github.com/farazkayan">
+  <img height="165" src="./profile/top-langs.svg" alt="Most-used programming languages"/>
 </a>
 
-<a href="https://www.instagram.com/faraz_kayan_haque/">
-  <img src="https://img.shields.io/badge/Instagram-faraz__kayan__haque-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Faraz_Kayan_Haque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/faraz.kayan.haque/">
-  <img src="https://img.shields.io/badge/Facebook-Faraz_Kayan_Haque-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<img width="70%" src="https://streak-stats.demolab.com?user=farazkayan&amp;theme=transparent&amp;hide_border=true&amp;ring=A78BFA&amp;fire=A78BFA&amp;currStreakLabel=A78BFA&amp;sideLabels=C4B5FD&amp;dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -278,20 +181,52 @@ And when I don't know something?
 
 <div align="center">
 
-# 👋 Thanks for stopping by!
+### `06` &nbsp; THE ACTIVITY FEED
 
-### I build things I wish existed.
+*Every little square has a story. The graph tracks the work.*
+
+<a href="https://github.com/farazkayan">
+  <img width="100%" src="https://raw.githubusercontent.com/farazkayan/farazkayan/output/activity-graph.svg" alt="GitHub activity graph"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/farazkayan/farazkayan/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+<br/>
+
+<sub>Activity visuals generated automatically with GitHub Actions.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### `07` &nbsp; OUTSIDE THE TERMINAL
+
+<a href="https://www.instagram.com/faraz_kayan_haque/"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/faraz-kayan-haque-6b70253aa/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/faraz.kayan.haque/"><img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=1877F2" alt="Facebook"/></a>
+
+<br/><br/>
+
+*I don't need to know everything.*
+
+*I just need to stay curious enough to figure it out.*
+
+<br/>
 
 **Explore. Experiment. Build. Break. Learn. Repeat.**
 
-<br>
+<br/>
 
-<a href="https://faraz.is-a.dev/">
-  <img src="https://img.shields.io/badge/🚀_ENTER_MY_PORTFOLIO-Visit_Now-000000?style=for-the-badge" />
+<a href="https://farazkh.dev">
+  <img src="https://img.shields.io/badge/VISIT_FARAZKH.DEV-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-⭐ Check out my repositories · 🌐 Visit my portfolio · 🚀 Build something
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:21153D,100:09090B&amp;height=120&amp;section=footer" alt=""/>
 
 </div>
